@@ -11,11 +11,6 @@
       "text": "This is feedback item 2 coming from the backend."
     },
     {
-      "id": 3,
-      "rating": 9,
-      "text": "This is feedback item 3 coming from the backend."
-    },
-    {
       "rating": "9",
       "text": "New feedback item postman",
       "id": 5
@@ -29,6 +24,16 @@
       "rating": "6",
       "text": "Postman rating of 6",
       "id": 7
+    },
+    {
+      "text": "New review, testing storage in db as well",
+      "rating": 7,
+      "id": 9
+    },
+    {
+      "text": "Newest item to add and edit and update.",
+      "rating": 8,
+      "id": 10
     }
   ]
 }
